@@ -8,3 +8,8 @@ Connect:
 
 Google Developers: https://g.dev/giorgiGrigolia
 Twitter: https://twitter.com/lifad_06
+
+<h3 align="left">Connect:</h3>
+<p align="left">
+<a href="https://g.dev/giorgiGrigolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-in-alt.svg" alt="googleDevelopers" height="30" width="40" /></a>
+
