@@ -1,7 +1,6 @@
 ## About
-
 <p>
-  📱✨ Transitioned from a solid social media background to the world of coding! 9 months ago, I made the leap into software dev 🚀 From HTML/CSS/JS to Android dreams 🤖📚 Studying daily for Android SDK, Kotlin, and app sorcery 🎩✨
+  📱✨ Transitioned from social media to coding 9 months ago. Now chasing Android dreams 🤖📚 Studying daily for Android SDK, Kotlin, and app mastery 🎩✨
 </p>
 
 <p>
