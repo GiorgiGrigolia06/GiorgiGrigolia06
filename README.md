@@ -47,8 +47,9 @@
 </p>
 
 ## Language Distribution
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
-</p>
+<div style="clear: both;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
+</div>
   
 ## Connect with me
 <p align="left">
