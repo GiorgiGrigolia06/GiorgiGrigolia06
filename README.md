@@ -11,6 +11,9 @@
   🔧🌟 I bring a unique mix of skills from different areas, which helps me solve problems effectively 🛠️ I see challenges as opportunities to grow and embrace them as part of my journey in this ever-changing field 🌱🚀
 </p>
 
+<img src="^5^" alt="Android badge">
+
+
 ## Languages and Tools
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
