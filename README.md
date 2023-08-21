@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://g.dev/giorgiGrigolia">
-    <img src="https://img.icons8.com/color/48/000000/google-developers.png" alt="Google Developers" width="40" height="40"/>
+    <img src="https://icons8.com/icon/17949/google" alt="Google Developers" width="40" height="40"/>
   </a>
 </p>
 
