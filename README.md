@@ -50,7 +50,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
-## Connect with me
+<h2>Connect with me</h2>
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="giorgiGrigoliaGoogleAccount" height="30" width="40" />
