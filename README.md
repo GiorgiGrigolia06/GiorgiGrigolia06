@@ -1,5 +1,5 @@
 ## About
-<p>Hi 👋, I'm Giorgi, an Android Developer 📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
+<p>👋 Hi, I'm Giorgi, an Android Developer 📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
 </p>
 
 <p>
