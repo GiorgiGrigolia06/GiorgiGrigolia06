@@ -1,8 +1,6 @@
 ## About
 <p>
   🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨ My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨
-  <img src="^3^" alt="My app screenshot" width="300" height="600">
-
 </p>
 
 <p>
