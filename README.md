@@ -1,6 +1,6 @@
 ## About
 <p>
-  📱✨ Transitioned from social media to coding 9 months ago. Now chasing Android dreams 🤖📚 Studying daily for Android SDK, Kotlin, and app mastery 🎩✨
+  📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
 </p>
 
 <p>
