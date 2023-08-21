@@ -1,14 +1,14 @@
 ## About
 <p>
-  👋 Hello! I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨. My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨.
+  🙋‍♂️👋 Hello! I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨ My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨
 </p>
 
 <p>
-  🎨💡 My background in social media equips me to excel in UI design, data analysis, and content creation. It's the combination of UI patterns that sparks my creativity 🖌️, while I rely on user feedback to guide my path 🧭.
+  🎨💡 My background in social media equips me to excel in UI design, data analysis, and content creation. It's the combination of UI patterns that sparks my creativity 🖌️, while I rely on user feedback to guide my path 🧭
 </p>
 
 <p>
-  🔧🌟 I bring a unique mix of skills from different areas, which helps me solve problems effectively 🛠️. I see challenges as opportunities to grow and embrace them as part of my journey in this ever-changing field 🌱🚀
+  🔧🌟 I bring a unique mix of skills from different areas, which helps me solve problems effectively 🛠️ I see challenges as opportunities to grow and embrace them as part of my journey in this ever-changing field 🌱🚀
 </p>
 
 ## Languages and Tools
