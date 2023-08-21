@@ -1,5 +1,6 @@
 ## About
-<p>🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer 📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
+<p>
+  🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer 📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
 </p>
 
 <p>
@@ -44,13 +45,14 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
+
 </p>
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
-<h2>Connect with me</h2>
+## Connect with me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="giorgiGrigoliaGoogleAccount" height="30" width="40" />
