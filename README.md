@@ -19,11 +19,11 @@ Twitter: https://twitter.com/lifad_06
 </p>
 
 ## Connect with Me
-<p align="center">
-  <a href="https://twitter.com/lifad_06" target="_blank">
+<p align="left">
+  <a href="https://twitter.com/lifad_06">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="https://g.dev/giorgiGrigolia" target="_blank">
+  <a href="https://g.dev/giorgiGrigolia">
     <img src="https://img.icons8.com/color/48/000000/google-developers.png" alt="Google Developers" width="40" height="40"/>
   </a>
 </p>
