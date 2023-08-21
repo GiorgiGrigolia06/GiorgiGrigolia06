@@ -8,4 +8,8 @@ Connect:
 Google Developers: https://g.dev/giorgiGrigolia
 Twitter: https://twitter.com/lifad_06
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<GiorgiGrigolia06>&theme=<THEME_NAME>" />
+<p align="center">   
+  <a href="https://github.com/GiorgiGrigolia06"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
+  </a>
+</p>
