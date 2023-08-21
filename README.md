@@ -8,6 +8,14 @@ Connect:
 Google Developers: https://g.dev/giorgiGrigolia
 Twitter: https://twitter.com/lifad_06
 
+## Languages and Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+</p>
+
 <p align="center">   
   <a href="https://github.com/GiorgiGrigolia06"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
