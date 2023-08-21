@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left">
   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
