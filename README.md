@@ -1,9 +1,15 @@
 ## About
-📱✨ Transitioned from a solid social media background to the world of coding! 9 months ago, I made the leap into software dev 🚀 From HTML/CSS/JS to Android dreams 🤖📚 Studying daily for Android SDK, Kotlin, and app sorcery 🎩✨
+<p>
+  📱✨ Transitioned from a solid social media background to the world of coding! 9 months ago, I made the leap into software dev 🚀 From HTML/CSS/JS to Android dreams 🤖📚 Studying daily for Android SDK, Kotlin, and app sorcery 🎩✨
+</p>
 
-🎨💡 Social media savvy ➡️ UI design, data analysis, content creation. UI patterns inspire my creativity 🖌️, while user feedback guides my direction 🧭
+<p>
+  🎨💡 Social media savvy ➡️ UI design, data analysis, content creation. UI patterns inspire my creativity 🖌️, while user feedback guides my direction 🧭
+</p>
 
-🔧🌟 Skills from both worlds ➡️ adaptable, problem-crushing 🛠️ Embracing the challenges 🌱🚀
+<p>
+  🔧🌟 Skills from both worlds ➡️ adaptable, problem-crushing 🛠️ Embracing the challenges 🌱🚀
+</p>
 
 ## Languages and Tools
 <p align="left">
