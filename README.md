@@ -11,9 +11,6 @@
 </p>
 
 ## Languages and Tools
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
-
-
 <p align="left">
   
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
@@ -61,6 +58,10 @@
 </p>
 
 ## Stats
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
+</p>
+
 <p align="left">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
 </p>
