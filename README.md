@@ -7,5 +7,4 @@
 Connect:
 
 Google Developers: https://g.dev/giorgiGrigolia
-
 Twitter: https://twitter.com/lifad_06
