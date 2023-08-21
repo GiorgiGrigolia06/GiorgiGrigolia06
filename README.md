@@ -47,11 +47,11 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact" alt="giorgigrigolia06" />
 </p>
 
-<p align="center">   
+<p align="left">   
   <a href="https://github.com/GiorgiGrigolia06"> 
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
   </a>
