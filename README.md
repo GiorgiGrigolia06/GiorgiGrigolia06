@@ -4,32 +4,6 @@
 
 🔧🌟 Skills from both worlds ➡️ adaptable, problem-crushing 🛠️ Embracing the challenges 🌱🚀
 
-## Languages and Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-</p>
-
-## Connect with Me
-<p align="left">
-  <a href="https://twitter.com/lifad_06">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://g.dev/giorgiGrigolia">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google Developers" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">   
-  <a href="https://github.com/GiorgiGrigolia06"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
-  </a>
-</p>
-
 ### Languages and Tools
 <p align="left">
   
@@ -67,7 +41,15 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact" alt="giorgigrigolia06" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact" alt="giorgigrigolia06" />
+</p>
+
+<p align="center">   
+  <a href="https://github.com/GiorgiGrigolia06"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
