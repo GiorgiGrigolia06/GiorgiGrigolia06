@@ -60,7 +60,7 @@
 
 ## Stats
 <p align="left">   
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
 </p>
 
 <p align="left">   
