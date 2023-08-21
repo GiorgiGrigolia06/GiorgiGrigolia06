@@ -11,6 +11,10 @@
   🔧🌟 I bring a unique mix of skills from different areas, which helps me solve problems effectively 🛠️ I see challenges as opportunities to grow and embrace them as part of my journey in this ever-changing field 🌱🚀
 </p>
 
+<p>
+  🎸⛰️ Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
+</p>
+
 ## Languages and Tools
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
