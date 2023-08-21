@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Giorgi, an Android Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgigrigolia06&label=Profile%20views&color=0e75b6&style=flat" alt="giorgigrigolia06" /> </p>
-
 ## About
 <p>
   📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
@@ -70,4 +68,8 @@
 
 <p align="left">   
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=giorgigrigolia06&label=Profile%20views&color=0e75b6&style=flat" alt="giorgigrigolia06" /> 
 </p>
