@@ -41,17 +41,17 @@
   
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lifad_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifad_06" height="30" width="40" /></a>
+</p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact" alt="giorgigrigolia06" />
 </p>
 
 <p align="center">   
   <a href="https://github.com/GiorgiGrigolia06"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
   </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lifad_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifad_06" height="30" width="40" /></a>
 </p>
