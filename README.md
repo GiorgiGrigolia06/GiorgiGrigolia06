@@ -59,7 +59,7 @@
 </p>
 
 ## Stats
-<p align="left">;   
+<p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
@@ -70,7 +70,3 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=giorgigrigolia06&label=Profile%20views&color=0e75b6&style=flat" alt="giorgigrigolia06" /> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent" alt="giorgigrigolia06" /></p>
