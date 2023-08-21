@@ -46,6 +46,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
+</p>
+
 ## Connect with me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
