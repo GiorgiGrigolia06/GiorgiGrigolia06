@@ -50,13 +50,13 @@
 
 ## Connect with me
 <p align="left">
-  
-  <a href="https://g.dev/giorgiGrigolia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="giorgiGrigolia" height="30" width="40" />
+  <a href="https://g.dev/giorgiGrigolia" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="giorgiGrigoliaGoogleAccount" height="30" width="40" />
   </a>
   
-  <a href="https://twitter.com/lifad_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifad_06" height="30" width="40" />
+  <a href="https://twitter.com/lifad_06" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" height="30" width="40" />
   </a>
-  
 </p>
 
 ## Stats and Stuff
