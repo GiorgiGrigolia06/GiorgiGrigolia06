@@ -7,3 +7,7 @@
 Connect:
 Google Developers: https://g.dev/giorgiGrigolia
 Twitter: https://twitter.com/lifad_06
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/i/materialicons/google/v10/24px.svg" alt="Google Icon" width="24" height="24">
+</p>
+
