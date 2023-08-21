@@ -54,5 +54,6 @@
 <p align="left">   
   <a href="https://github.com/GiorgiGrigolia06"> 
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=github_dark"/>     
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=github_dark)
   </a>
 </p>
