@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  🎨💡 My background in social media equips me to excel in UI design, data analysis, and content creation. It's the combination of UI patterns that sparks my creativity 🖌️, while I rely on user feedback to guide my path 🧭
+  🎨💡 My background in social media equips me to excel in UI design, data analysis, and content creation. It's the combination of UI patterns that sparks my creativity 🖌️, while user feedback guides my direction 🧭
 </p>
 
 <p>
