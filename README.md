@@ -5,7 +5,6 @@
 🔧🌟 Skills from both worlds ➡️ adaptable, problem-crushing 🛠️ Embracing the challenges 🌱🚀
 
 Connect:
-<p>Google Developers: https://g.dev/giorgiGrigolia
-</p>
-<p>Twitter: https://twitter.com/lifad_06
-</p>
+Google Developers: https://g.dev/giorgiGrigolia
+
+Twitter: https://twitter.com/lifad_06
