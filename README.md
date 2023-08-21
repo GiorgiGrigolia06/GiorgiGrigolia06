@@ -52,7 +52,7 @@
 <p align="left">
   <a href="https://twitter.com/lifad_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifad_06" height="30" width="40" />
   </a>
-  <a href="https://g.dev/giorgiGrigolia" target="blank"><img align="center" src="https://imgs.search.brave.com/cQ9KAtqHYlibkPKzE7hb1ZwqZhJ6vFmuGoYRkzT_Bhk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9nb29nbGUt/aWNvbi01MTJ4NTEy/LXRxYzllbDNyLnBu/Zw" alt="giorgiGrigolia" height="30" width="40" />
+  <a href="https://g.dev/giorgiGrigolia" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=17949&format=png" alt="giorgiGrigolia" height="30" width="40" />
   </a>
 </p>
 
