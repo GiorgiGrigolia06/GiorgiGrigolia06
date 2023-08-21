@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Giorgi</h1>
+<h3 align="center">Android Developer</h3>
+
 ## About
 <p>
   📱✨ Made the leap from social media to coding 9 months ago. On the path to Android mastery 🤖📚 Daily study: Android SDK, Kotlin, and app finesse 🎩✨
