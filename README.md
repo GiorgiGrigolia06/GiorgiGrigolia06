@@ -18,6 +18,17 @@ Twitter: https://twitter.com/lifad_06
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
 </p>
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/lifad_06">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://g.dev/giorgiGrigolia">
+    <img src="https://img.icons8.com/color/48/000000/google-developers.png" alt="Google Developers" width="40" height="40"/>
+  </a>
+</p>
+
 <p align="center">   
   <a href="https://github.com/GiorgiGrigolia06"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=radical"/>     
