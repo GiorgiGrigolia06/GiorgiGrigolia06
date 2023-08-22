@@ -127,16 +127,6 @@ val giorgiGrigolia = Developer().apply {
   </a>
 </p>
 
-<p align="left">
-  Hop on the meme train with me on IG 🚂
-  <p>
-  <a href="https://www.instagram.com/lifad06/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" title="Instagram" alt="Instagram" height="40" width="40" />
-  </a>
-    
-  </p>
-</p>
-
 ## 📊 Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
