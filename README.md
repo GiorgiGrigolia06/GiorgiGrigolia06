@@ -58,6 +58,10 @@ val giorgiGrigolia = Developer().apply {
     <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="40" height="40"/> 
   </a> 
 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="androidStudio" width="40" height="40"/> 
+  </a> 
+
   <a href="https://coil-kt.github.io/coil/" target="_blank" rel="noreferrer"> 
     <img src="CoilLogoSVG.png" title="Coil" alt="coil" width="40" height="40"/> 
   </a>
