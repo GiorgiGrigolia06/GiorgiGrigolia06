@@ -15,7 +15,7 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
-## About for nerds like me 🤓
+## 🤓 About for nerds like me
 ```kotlin
 val giorgiGrigolia = Developer().apply {
     pronouns = "he" || "him"
