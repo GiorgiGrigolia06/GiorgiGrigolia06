@@ -105,7 +105,7 @@ val giorgiGrigolia = Developer().apply {
 
 ## 📚 Courses I've taken
 <p align="left">
-  Google’s Training Courses  - <a href="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
+  Google’s Training Courses - <a href="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
 </p>
 
 <p align="left">
@@ -119,6 +119,20 @@ val giorgiGrigolia = Developer().apply {
 <p align="left">
   CodeHS - <a href="https://codehs.com/certificate/j1YlGm">Introduction to Computer Science in JavaScript</a>
 </p>
+
+## Courses I've Taken
+
+- **05/2023 - Present**
+  Google’s Training Courses - Android Basics with Compose
+
+- **11/2022 - 03/2023**
+  Udemy - The Complete JavaScript Course: From Zero to Expert
+
+- **10/2022 - 11/2022**
+  freeCodeCamp - Responsive Web Design
+
+- **10/2022 - 11/2022**
+  CodeHS - Introduction to Computer Science in JavaScript
 
 ## 🌐 Languages I Speak
 <p align="left">
