@@ -103,5 +103,6 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://komarev.com/ghpvc/?username=giorgigrigolia06&label=Profile%20views&color=0e75b6&style=flat" alt="giorgigrigolia06" /> 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
-
+<p align="left">
+  Profile views: ![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
+</p>
