@@ -104,5 +104,6 @@ val giorgiGrigolia = Developer().apply {
 </p>
 
 <p align="left">
-  Profile views: ![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
+  Profile views:
 </p>
+![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
