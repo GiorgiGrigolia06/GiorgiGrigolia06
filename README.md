@@ -105,9 +105,9 @@ val giorgiGrigolia = Developer().apply {
 
 ## 🌐 Languages I Speak
 <p align="left">
-  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="60" width="60"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="60" width="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" alt="GermanFlag" height="60" width="60"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" alt="GermanFlag" height="60" width="60"/>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" title="Georgian" alt="GeorgiaFlag" height="60" width="60"/>
 </p>
