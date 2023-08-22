@@ -47,47 +47,47 @@ val giorgiGrigolia = Developer().apply {
 ## 🚀 Languages and Tools
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="kotlin" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="kotlin" width="50" height="50"/> 
   </a>
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="android" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="android" width="50" height="50"/> 
   </a> 
   
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="40" height="40"/> 
+    <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="50" height="50"/> 
   </a> 
 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="androidStudio" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="androidStudio" width="50" height="50"/> 
   </a> 
 
   <a href="https://coil-kt.github.io/coil/" target="_blank" rel="noreferrer"> 
-    <img src="CoilLogoSVG.png" title="Coil" alt="coil" width="40" height="40"/> 
+    <img src="CoilLogoSVG.png" title="Coil" alt="coil" width="50" height="50"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="50" height="50"/> 
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="figma" width="50" height="50"/> 
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="50" height="50"/> 
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="html5" width="50" height="50"/> 
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="css3" width="50" height="50"/> 
   </a> 
 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="50" height="50"/> 
   </a>
 </p>
 
