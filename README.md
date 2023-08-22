@@ -85,7 +85,7 @@ val giorgiGrigolia = Developer().apply {
 
 ## 🌐 Languages I Speak
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png" alt="UKFlag" height="40" width="40" />
+  <img src="https://freesvg.org/img/tobias-Flag-of-the-United-Kingdom.png" alt="UKFlag" height="40" width="40" />
 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png" alt="GermanFlag" height="40" width="40" />
   
