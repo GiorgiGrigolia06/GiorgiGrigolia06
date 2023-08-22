@@ -23,7 +23,7 @@ val giorgiGrigolia = Developer().apply {
     tools = listOf(
         AndroidStudio,
         JetpackCompose,
-        Version Control (Git && Github),
+        Git,
         AndroidArchitectureComponents,
         Figma,
         VirtualStudioCode
