@@ -87,12 +87,11 @@ val giorgiGrigolia = Developer().apply {
 <p align="left">
   <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" alt="UKFlag" height="40" width="40" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png" alt="GermanFlag" height="40" width="40" />
+  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="GermanFlag" height="40" width="40" />
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/800px-Flag_of_Georgia.svg.png" alt="GeorgiaFlag" height="40" width="40" />
+  <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" alt="GeorgiaFlag" height="40" width="40" />
 </p>
-/////////////////////
-  
+
 ## 📍 Where to Find Me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
