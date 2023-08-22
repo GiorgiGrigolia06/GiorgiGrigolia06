@@ -59,7 +59,7 @@ val giorgiGrigolia = Developer().apply {
   </a> 
 
   <a href="https://coil-kt.github.io/coil/" target="_blank" rel="noreferrer"> 
-    <img src="CoilLogo.png" title="Coil" alt="coil" width="40" height="40"/> 
+    <img src="CoilLogoSVG.png" title="Coil" alt="coil" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
