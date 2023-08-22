@@ -54,6 +54,10 @@ val giorgiGrigolia = Developer().apply {
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="android" width="40" height="40"/> 
   </a> 
 
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" title="Jetpack Compose" alt="jetpackCompose" width="40" height="40"/> 
+  </a> 
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> 
   </a>
