@@ -1,4 +1,4 @@
-## About
+## About me
 <p>
   🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨ My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨
 </p>
@@ -15,7 +15,7 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
-## Languages and Tools
+## Some tools I use
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
