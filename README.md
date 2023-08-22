@@ -103,7 +103,6 @@ val giorgiGrigolia = Developer().apply {
     <img src="ResumeQRCode.png" title="Resume on Google Docs" alt="ResumeQRCode" height="80" width="80">
 </p>
 
-//////////////
 ## 📚 Courses I've taken
 <p align="left">
   Google’s Training Courses  - <a href="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
