@@ -115,11 +115,11 @@ val giorgiGrigolia = Developer().apply {
 ## 📍 Where to Find Me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="50" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="40" width="40" />
   </a>
   
   <a href="https://twitter.com/lifad_06" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="40" width="40" />
   </a>
 </p>
 
