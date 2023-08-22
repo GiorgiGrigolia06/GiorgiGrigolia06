@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="Cyborg from the Valley of the Wind [0].jpg" title="Cyborg in a Dive Bar" alt="CyborgWithBeer" width="100" height="100"/> 
+  <img src="Cyborg from the Valley of the Wind [0].jpg" title="Cyborg in a Dive Bar" alt="CyborgWithBeer"/> 
 </p>
 
 ## 🤓 About for Nerds Like Me
