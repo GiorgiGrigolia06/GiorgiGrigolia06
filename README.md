@@ -75,7 +75,7 @@ val giorgiGrigolia = Developer().apply {
   </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> 
   </a> 
 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
