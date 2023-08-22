@@ -117,6 +117,12 @@ val giorgiGrigolia = Developer().apply {
 - **10/2022 - 11/2022**
   CodeHS - Introduction to Computer Science in JavaScript
 
+| 05/2023 - Present | Google’s Training Courses - Android Basics with Compose |
+| 11/2022 - 03/2023 | Udemy - The Complete JavaScript Course: From Zero to Expert |
+| 10/2022 - 11/2022 | freeCodeCamp - Responsive Web Design |
+| 10/2022 - 11/2022 | CodeHS - Introduction to Computer Science in JavaScript |
+
+
 ## 🌐 Languages I Speak
 <p align="left">
   <a>
