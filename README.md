@@ -105,21 +105,21 @@ val giorgiGrigolia = Developer().apply {
 
 ## 🌐 Languages I Speak
 <p align="left">
-  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="50" width="50"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="60" width="60"/>
   
-  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" alt="GermanFlag" height="50" width="50"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="German" alt="GermanFlag" height="60" width="60"/>
   
-  <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" title="Georgian" alt="GeorgiaFlag" height="50" width="50"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" title="Georgian" alt="GeorgiaFlag" height="60" width="60"/>
 </p>
 
 ## 📍 Where to Find Me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="50" width="50" />
   </a>
   
   <a href="https://twitter.com/lifad_06" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="50" width="50" />
   </a>
 </p>
 
