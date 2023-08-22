@@ -82,6 +82,16 @@ val giorgiGrigolia = Developer().apply {
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
+
+## 🌐 Languages I Speak
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png" alt="UKFlag" height="40" width="40" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png" alt="GermanFlag" height="40" width="40" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/800px-Flag_of_Georgia.svg.png" alt="GeorgiaFlag" height="40" width="40" />
+</p>
+/////////////////////
   
 ## 📍 Where to Find Me
 <p align="left">
