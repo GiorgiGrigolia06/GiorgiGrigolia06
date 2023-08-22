@@ -106,7 +106,7 @@ val giorgiGrigolia = Developer().apply {
   Alternatively, you can scan the QR code below
 </p>
 <p align="left">
-  <img src="Resume QR Code.png title="Resume on Google Docs" alt= "ResumeQRCode">
+  <img src="ResumeQRCode.png" title="Resume on Google Docs" alt="ResumeQRCode">
 </p>
 
 ## 🌐 Languages I Speak
