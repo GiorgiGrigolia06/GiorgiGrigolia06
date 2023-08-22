@@ -98,7 +98,7 @@ val giorgiGrigolia = Developer().apply {
 ## See My Current Resume
 <p align="left">
   <a href="https://bit.ly/giorgiGrigoliaResume" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png" title="Resume on Google Docs" alt="Resume" height="50" width="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" title="Resume on Google Docs" alt="Resume" height="50" width="50"/>
   </a>
 </p>
 
