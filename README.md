@@ -102,6 +102,10 @@ val giorgiGrigolia = Developer().apply {
   </a>
 </p>
 
+<p align = "left">
+  Alternatively, you can scan this QR code to view my resume
+</p>
+
 ## 🌐 Languages I Speak
 <p align="left">
   <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="50" width="50"/>
