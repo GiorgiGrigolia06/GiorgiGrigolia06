@@ -128,7 +128,7 @@ val giorgiGrigolia = Developer().apply {
 </p>
 
 <p align="left">
-  You can also hop on the meme train with me on IG for a daily dose of curated chuckles 🚂🤣
+  Hop on the meme train with me on IG 🚂
   <p>
   <a href="https://www.instagram.com/lifad06/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" title="Instagram" alt="Instagram" height="40" width="40" />
