@@ -15,19 +15,31 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
-## Little more about me
+## About for nerds like me
 ```kotlin
-val androidDev = Developer().apply {
-    pronouns = "he" or "him"
+val giorgiGrigolia = Developer().apply {
+    pronouns = "he" || "him"
     codeLanguages = listOf(Kotlin, JavaScript, HTML, CSS)
-    developmentTools = listOf(AndroidStudio, Git, VirtualStudioCode, Figma)
-    libraries = listOf(JetpackCompose, AndroidArchitectureComponents, Retrofit, Coil, Room, SQLite)
-    architecture = listOf("MVVM")
+    tools = listOf(
+        AndroidStudio,
+        JetpackCompose,
+        Version Control (Git/Github),
+        AndroidArchitectureComponents,
+        Figma,
+        VirtualStudioCode
+    )
+    libraries = listOf(
+        JetpackCompose,
+        Retrofit,
+        Coil,
+        Room,
+        SQLite
+    )
+    architecture = listOf(MVVM)
     techniques = listOf(
         "Responsive Design for various screen sizes and orientations",
         "UI Design Principles",
-        "Error handling and debugging techniques",
-        "Version Control (Git/Github)"
+        "Error handling and debugging techniques"
     )
 }
 ```
