@@ -95,6 +95,13 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
+## See My Current Resume
+<p align="left">
+  <a href="https://bit.ly/giorgiGrigoliaResume" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png" title="Resume on Google Docs" alt="Resume" height="50" width="50"/>
+  </a>
+</p>
+
 ## 🌐 Languages I Speak
 <p align="left">
   <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UKFlag" height="50" width="50"/>
