@@ -124,14 +124,18 @@ val giorgiGrigolia = Developer().apply {
 
 ## 📍 Where to Find Me
 <p align="left">
-  <a href="https://g.dev/giorgiGrigolia" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="40" width="40" />
-  </a>&nbsp;
-  
   <a href="https://twitter.com/lifad_06" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="40" width="40" />
   </a>&nbsp;
 
+<a href="https://medium.com/@giorgiGrigolia" target="blank">
+  <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="giorgiGrigoliaTwitterAccount" title="Medium" alt="giorgiGrigoliaMediumAccount" height="40" width="40" />
+  </a>&nbsp;
+  
+  <a href="https://g.dev/giorgiGrigolia" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="giorgiGrigoliaGoogleAccount" height="40" width="40" />
+  </a>&nbsp;
+  
   <a href="mailto:grigolialive@gmail.com" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="giorgiGrigoliaTwitterAccount" title="Gmail" alt="GiorgiGrigoliaGmail" height="40" width="40" />
   </a>
