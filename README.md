@@ -99,10 +99,6 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=giorgigrigolia06&label=Profile%20views&color=0e75b6&style=flat" alt="giorgigrigolia06" /> 
-</p>
-
 ## 🎯 Profile Reach
 ![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
 
