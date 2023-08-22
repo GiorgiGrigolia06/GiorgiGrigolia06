@@ -15,9 +15,8 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
-<p>
-  Cheers mate!
-  <img src="Cyborg from the Valley of the Wind [0].jpg" title="Cyborg in a Dive Bar" alt="CyborgWithBeer" width="40" height="40"/> 
+<p align="center">
+  <img src="Cyborg from the Valley of the Wind [0].jpg" title="Cyborg in a Dive Bar" alt="CyborgWithBeer" width="100" height="100"/> 
 </p>
 
 ## 🤓 About for Nerds Like Me
