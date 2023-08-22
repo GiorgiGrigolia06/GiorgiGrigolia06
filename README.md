@@ -103,6 +103,24 @@ val giorgiGrigolia = Developer().apply {
     <img src="ResumeQRCode.png" title="Resume on Google Docs" alt="ResumeQRCode" height="80" width="80">
 </p>
 
+//////////////
+## 📚 Courses I've taken
+<p align="left">
+  Google’s Training Courses  - <a href="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
+</p>
+
+<p align="left">
+  Udemy - <a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course: From Zero to Expert</a>
+</p>
+
+<p align="left">
+  freeCodeCamp - <a href="https://freecodecamp.org/certification/Giorgi_Grigolia/responsive-web-design">Responsive Web Design</a>
+</p>
+
+<p align="left">
+  CodeHS - <a href="https://codehs.com/certificate/j1YlGm">Introduction to Computer Science in JavaScript</a>
+</p>
+
 ## 🌐 Languages I Speak
 <p align="left">
   <a>
