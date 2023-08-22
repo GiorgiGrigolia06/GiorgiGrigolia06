@@ -95,7 +95,7 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
-## See My Current Resume
+## 📄 Check Out My Current Resume
 <p align="left">
   <a href="https://bit.ly/giorgiGrigoliaResume" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" title="Resume on Google Docs" alt="Resume" height="50" width="50"/>
