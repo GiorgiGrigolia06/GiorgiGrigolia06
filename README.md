@@ -59,7 +59,7 @@ val giorgiGrigolia = Developer().apply {
   </a> 
 
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="45" height="45"/> 
+    <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="40" height="40"/> 
   </a> 
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
