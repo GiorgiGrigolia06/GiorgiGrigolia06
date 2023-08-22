@@ -17,7 +17,7 @@
 
 <p>
   Cheers mate!
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="kotlin" width="40" height="40"/> 
+  <img src="Cyborg from the Valley of the Wind [0].jpg" title="Cyborg in a Dive Bar" alt="CyborgWithBeer" width="40" height="40"/> 
 </p>
 
 ## 🤓 About for Nerds Like Me
