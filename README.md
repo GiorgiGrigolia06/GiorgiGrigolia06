@@ -104,10 +104,10 @@ val giorgiGrigolia = Developer().apply {
 </p>
 
 ## 📚 Courses I've Taken
-- **05/2023 - Present:** [Google’s Training Courses - Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
-- **11/2022 - 03/2023:** [Udemy - The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
-- **10/2022 - 11/2022:** [freeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/Giorgi_Grigolia/responsive-web-design)
-- **10/2022 - 11/2022:** [CodeHS - Introduction to Computer Science in JavaScript](https://codehs.com/certificate/j1YlGm)
+- **05/2023 - Present:** Google’s Training Courses - [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
+- **11/2022 - 03/2023:** Udemy - [The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
+- **10/2022 - 11/2022:** freeCodeCamp - [Responsive Web Design](https://freecodecamp.org/certification/Giorgi_Grigolia/responsive-web-design)
+- **10/2022 - 11/2022:** CodeHS - [Introduction to Computer Science in JavaScript](https://codehs.com/certificate/j1YlGm)
   
 ## 🌐 Languages I Speak
 <p align="left">
