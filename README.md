@@ -58,6 +58,10 @@ val giorgiGrigolia = Developer().apply {
     <img src="JCLogo.png" title="Jetpack Compose" alt="jetpackCompose" width="40" height="40"/> 
   </a> 
 
+  <a href="https://coil-kt.github.io/coil/" target="_blank" rel="noreferrer"> 
+    <img src="https://coil-kt.github.io/coil/logo.svg" title="Coil" alt="coil" width="40" height="40"/> 
+  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> 
   </a>
