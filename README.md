@@ -1,4 +1,4 @@
-## About
+## 📝 About
 <p>
   🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨ My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨
 </p>
@@ -15,7 +15,7 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
-## About for nerds like me
+## About for nerds like me 🤓
 ```kotlin
 val giorgiGrigolia = Developer().apply {
     pronouns = "he" || "him"
@@ -44,7 +44,7 @@ val giorgiGrigolia = Developer().apply {
 }
 ```
 
-## Languages and Tools
+## 🚀 Languages and Tools
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -83,7 +83,7 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
   
-## Where to find me
+## 📍 Where to Find Me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="giorgiGrigoliaGoogleAccount" height="30" width="40" />
@@ -94,7 +94,7 @@ val giorgiGrigolia = Developer().apply {
   </a>
 </p>
 
-## Stats
+## 📊 Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
 </p>
