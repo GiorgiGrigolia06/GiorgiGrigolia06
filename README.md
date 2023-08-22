@@ -19,7 +19,7 @@
 ```kotlin
 val giorgiGrigolia = Developer().apply {
     pronouns = "he" || "him"
-    codeLanguages = listOf(Kotlin, JavaScript, HTML, CSS)
+    languages = listOf(Kotlin, JavaScript, HTML, CSS)
     tools = listOf(
         AndroidStudio,
         JetpackCompose,
