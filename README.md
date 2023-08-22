@@ -15,6 +15,11 @@
   🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
 </p>
 
+<p>
+  Cheers mate!
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="kotlin" width="40" height="40"/> 
+</p>
+
 ## 🤓 About for Nerds Like Me
 ```kotlin
 val giorgiGrigolia = Developer().apply {
