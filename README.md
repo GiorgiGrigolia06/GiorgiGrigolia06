@@ -22,7 +22,6 @@ val giorgiGrigolia = Developer().apply {
     languages = listOf(Kotlin, JavaScript, HTML, CSS)
     tools = listOf(
         AndroidStudio,
-        JetpackCompose,
         Git,
         AndroidArchitectureComponents,
         Figma,
