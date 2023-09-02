@@ -18,7 +18,6 @@
 ## 🤓 About for Nerds Like Me
 ```kotlin
 val giorgiGrigolia = Developer().apply {
-    pronouns = "he" || "him"
     languages = listOf(Kotlin, JavaScript, HTML, CSS)
     tools = listOf(
         AndroidStudio,
