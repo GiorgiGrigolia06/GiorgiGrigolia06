@@ -31,6 +31,7 @@ val giorgiGrigolia = Developer().apply {
         Retrofit,
         Coil,
         Room,
+        DataStore,
         SQLite
     )
     architecture = listOf(MVVM)
