@@ -131,7 +131,7 @@ val giorgiGrigolia = Developer().apply {
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="giorgiGrigoliaTwitterAccount" title="Gmail" alt="GiorgiGrigoliaGmail" height="40" width="40" />
   </a>&nbsp;
 
-  <a href="www.linkedin.com/in/giorgigrigolia" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/giorgigrigolia/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="giorgiGrigoliaLinkedInAccount" title="LinkedIn" alt="giorgiGrigoliaLinkedInAccount" height="40" width="40" />
   </a>&nbsp;
   
