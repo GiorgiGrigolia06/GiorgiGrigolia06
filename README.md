@@ -130,6 +130,10 @@ val giorgiGrigolia = Developer().apply {
   <a href="mailto:grigolialive@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="giorgiGrigoliaTwitterAccount" title="Gmail" alt="GiorgiGrigoliaGmail" height="40" width="40" />
   </a>&nbsp;
+
+  <a href="www.linkedin.com/in/giorgigrigolia" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="giorgiGrigoliaLinkedInAccount" title="LinkedIn" alt="giorgiGrigoliaLinkedInAccount" height="40" width="40" />
+  </a>&nbsp;
   
   <a href="https://twitter.com/lifad_06" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giorgiGrigoliaTwitterAccount" title="Twitter" alt="giorgiGrigoliaTwitterAccount" height="40" width="40" />
