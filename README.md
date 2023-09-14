@@ -103,7 +103,7 @@ val giorgiGrigolia = Developer().apply {
 </p>
 
 ## 📚 Courses I've Taken
-- **05/2023 - 09/2023:** [Coursera - Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
+- **05/2023 - Present:** [Coursera - Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
 - **05/2023 - 09/2023:** [Google’s Training Courses - Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 - **11/2022 - 03/2023:** [Udemy - The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 - **10/2022 - 11/2022:** [freeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/Giorgi_Grigolia/responsive-web-design)
