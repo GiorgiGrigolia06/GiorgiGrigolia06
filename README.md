@@ -1,47 +1,9 @@
 ## 📝 About
 <p>
-  🙋‍♂️👋 Hey there, I'm Giorgi, an Android Developer with a passion for creating outstanding digital experiences 📱✨ My journey led me from social media to coding 9 months ago. Right now, I'm deeply engaged in the world of Android 🤖📚, learning about Android SDK, Kotlin, and the art of building polished apps 🎩✨
+  I love watching Primeagen but I'm still afraid to code in Neovim.
 </p>
 
-<p>
-  🎨💡 My background in social media equips me to excel in UI design, data analysis, and content creation. It's the combination of UI patterns that sparks my creativity 🖌️, while user feedback guides my direction 🧭
-</p>
-
-<p>
-  🔧🌟 I bring a unique mix of skills from different areas, which helps me solve problems effectively 🛠️ I see challenges as opportunities to grow and embrace them as part of my journey in this ever-changing field 🌱🚀
-</p>
-
-<p>
-  🎸🥁 Outside of coding, you can find me rocking out to heavy metal tunes, exploring exciting adventures, and simply loving the process of bringing new things to life 🌄🎵
-</p>
-
-## 🤓 About for Nerds Like Me
-```kotlin
-val giorgiGrigolia = Developer().apply {
-    languages = listOf(Kotlin, JavaScript, HTML, CSS)
-    tools = listOf(
-        AndroidStudio,
-        Git,
-        AndroidArchitectureComponents,
-        Figma,
-        VirtualStudioCode
-    )
-    libraries = listOf(
-        JetpackCompose,
-        Retrofit,
-        Coil,
-        Room,
-        DataStore,
-        SQLite
-    )
-    architecture = listOf(MVVM)
-    techniques = listOf(
-        "Responsive Design for various screen sizes and orientations",
-        "UI Design Principles",
-        "Error handling and debugging techniques"
-    )
-}
-
+## 🤓 My Controversial Opinion
 ██████╗ ███████╗ ██████╗██╗   ██╗██████╗ ███████╗██╗ ██████╗ ███╗   ██╗    
 ██╔══██╗██╔════╝██╔════╝██║   ██║██╔══██╗██╔════╝██║██╔═══██╗████╗  ██║    
 ██████╔╝█████╗  ██║     ██║   ██║██████╔╝███████╗██║██║   ██║██╔██╗ ██║    
@@ -62,8 +24,7 @@ val giorgiGrigolia = Developer().apply {
 ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══╝  ██║  ██║
 ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║██║  ██║██║  ██║   ██║   ███████╗██████╔╝
  ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝ 
-```
-
+ 
 ```brainfuck
 -[------->+<]>.>-
 -[----->+<]>.[--->+<]>--.-
