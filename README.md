@@ -1,5 +1,5 @@
 ## 📝 About
-<p style="font-size: 200;">
+<p style="font-size: 40">
   Waiting for the day when I muster the audacity to start coding in Neovim 👽<br>
   Currently doing an internship at **Making Science • Sweeft** as an Android dev 🤖
 </p>
