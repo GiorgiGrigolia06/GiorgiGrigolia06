@@ -6,7 +6,7 @@
 ## 🚀 Languages and Tools
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/> 
+    <img src="Kotlin.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/> 
   </a>
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
