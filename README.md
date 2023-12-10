@@ -8,7 +8,7 @@ Waiting for the day when I muster the audacity to start coding in Neovim 👽<br
   </a>
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="Android.svg" title="Android" alt="Android" width="50" height="50"/> 
+    <img src="Android.svg" title="Android" alt="Android" width="100" height="100"/> 
   </a> 
   
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
