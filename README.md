@@ -3,6 +3,10 @@
   Waiting for the day when I muster the audacity to start coding in Neovim.
 </p>
 
+<p>
+  Currently doing an internship at **Making Science** as an Android dev.
+</p>
+
 ## 🤓 My Controversial Opinion
 ```kotlin
 ██████╗ ███████╗ ██████╗██╗   ██╗██████╗ ███████╗██╗ ██████╗ ███╗   ██╗    
