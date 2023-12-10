@@ -1,6 +1,6 @@
 ## 📝 About
 <p>
-  I love watching Primeagen but I'm still afraid to code in Neovim.
+  Waiting for the day when I muster the courage to start coding in Neovim.
 </p>
 
 ## 🤓 My Controversial Opinion
