@@ -83,7 +83,7 @@ Waiting for the day when I muster the audacity to start coding in Neovim 👽<br
 ## 📍 Where to Find Me
 <p align="left">
   <a href="https://g.dev/giorgiGrigolia" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Developers_logo.svg" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="40" width="40" />
   </a>&nbsp;
 
   <a href="mailto:grigolialive@gmail.com" target="_blank" rel="noreferrer">
