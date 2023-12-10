@@ -8,7 +8,7 @@ Waiting for the day when I muster the audacity to start coding in Neovim 👽<br
   </a>
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" title="Android" alt="Android" width="50" height="50"/> 
+    <img src="https://files.brandlogos.net/svg/JsRIbNiiis/android-logo-brandlogos.net_zflhm9c0s.svg" title="Android" alt="Android" width="50" height="50"/> 
   </a> 
   
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
