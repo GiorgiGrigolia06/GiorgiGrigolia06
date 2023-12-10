@@ -1,7 +1,7 @@
 ## 📝 About
 - Full-time nerd and metalhead 🎸
 - Looking forward to the day when I muster the audacity to start coding in Neovim 👽
-- When I'm not coding, I'm either watching Primeagen streams or body horror movies 🍿
+- When I'm not coding, I'm either watching Primeagen streams or horror movies 🍿
   
 ## 🚀 Languages and Tools
 <p align="left">
