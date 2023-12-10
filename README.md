@@ -1,6 +1,8 @@
 ## 📝 About
-Waiting for the day when I muster the audacity to start coding in Neovim.
-Currently doing an internship at **Making Science • Sweeft** as an Android dev.
+<p>
+  Waiting for the day when I muster the audacity to start coding in Neovim.<br>
+  Currently doing an internship at **Making Science • Sweeft** as an Android dev.
+</p>
 
 ```brainfuck
 -[------->+<]>.>-
