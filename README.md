@@ -1,6 +1,6 @@
 ## 📝 About
 <p>
-  Waiting for the day when I muster the courage to start coding in Neovim.
+  Waiting for the day when I muster the audacity to start coding in Neovim.
 </p>
 
 ## 🤓 My Controversial Opinion
