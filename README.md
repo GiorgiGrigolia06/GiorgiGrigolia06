@@ -1,5 +1,5 @@
 ## 📝 About
-- Full-time nerd and music junkie 🎸🤓
+- Full-time music junkie 🎸🤓
 - Looking forward to the day when I muster the audacity to start coding in Neovim 👽
 - I used to love writing but all I write now is README files ✍️
 - When I'm not coding, I'm either watching Primeagen streams or horror movies 🍿
