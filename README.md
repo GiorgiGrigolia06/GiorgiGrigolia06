@@ -1,7 +1,7 @@
 ## 📝 About
 - Full-time music junkie 🎸
 - Looking forward to the day when I muster the audacity to start coding in Neovim 👽
-- I used to write copies but all I write now is README files ✍️
+- I used to write copies but all I write now is commit messages ✍️
 - When I'm not coding, I'm usually watching Primeagen streams or horror movies 🍿
 
 ## 🚀 Languages and Tools
