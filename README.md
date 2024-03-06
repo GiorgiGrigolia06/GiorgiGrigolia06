@@ -4,7 +4,7 @@
 - I used to write copies but all I write now is commit messages ✍️
 - When I'm not coding, I'm usually watching Primeagen streams or horror movies 🍿
 
-## 🚀 Tools and Technologies
+## 🚀 Tools I Use
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="Kotlin.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/> 
