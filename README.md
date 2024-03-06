@@ -80,24 +80,16 @@
 
 ## 📍 Where to Find Me
 <p align="left">
-  <a href="https://g.dev/giorgiGrigolia" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/giorgigrigolia/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="Giorgi Grigolia LinkedIn Account" height="40" width="40" />
   </a>&nbsp;
 
   <a href="mailto:grigolialive@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Giorgi Grigolia Gmail" height="40" width="40" />
   </a>&nbsp;
-
-  <a href="https://www.linkedin.com/in/giorgigrigolia/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="Giorgi Grigolia LinkedIn Account" height="40" width="40" />
-  </a>&nbsp;
   
-  <a href="https://twitter.com/lifad_06" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Giorgi Grigolia Twitter Account" title="Twitter" height="40" width="40" />
-  </a>&nbsp;
-
-<a href="https://medium.com/@giorgiGrigolia" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" title="Medium" alt="Giorgi Grigolia Medium Account" height="40" width="40" />
+  <a href="https://g.dev/giorgiGrigolia" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="40" width="40" />
   </a>&nbsp;
 </p>
 
