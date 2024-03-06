@@ -62,9 +62,8 @@
 ## 📚 Courses I've Taken
 - **09/2023 - 10/2023:** [Coursera - Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
 - **05/2023 - 09/2023:** [Google’s Training Courses - Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
-- **11/2022 - 03/2023:** [Udemy - The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 - **10/2022 - 11/2022:** [freeCodeCamp - Responsive Web Design](https://freecodecamp.org/certification/Giorgi_Grigolia/responsive-web-design)
-- **10/2022 - 11/2022:** [CodeHS - Introduction to Computer Science in JavaScript](https://codehs.com/certificate/j1YlGm)
+- **10/2022 - 11/2022:** [CodeHS - Introduction to Computer Science](https://codehs.com/certificate/j1YlGm)
   
 ## 🌐 Languages I Speak
 <p align="left">
