@@ -51,13 +51,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
+<!-- 
 ## 📄 Check Out My Current Resume
 <p align="left">
   <a href="https://drive.google.com/file/d/1RDdMqasb2itvYIFWmwlmTyudNiFC7STs/view?usp=drive_link" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/103036/pdf.svg" title="Resume on Google Drive" alt="Resume in PDF Format" height="80" width="80"/>
   </a>
     <img src="ResumeQRCodePDF.png" title="Resume on Google Drive QR Code" alt="Resume QR Code" height="80" width="80">
-</p>
+</p> 
+-->
 
 ## 📚 Courses I've Taken
 - **09/2023 - 10/2023:** [Coursera - Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
