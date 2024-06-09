@@ -14,12 +14,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/> 
   </a> 
   
-  <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> 
-    <img src="xml.svg" title="XML" alt="XML" width="50" height="50"/> 
-  </a> 
-
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
     <img src="JCLogo.png" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/> 
+  </a> 
+  
+  <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> 
+    <img src="xml.svg" title="XML" alt="XML" width="50" height="50"/> 
   </a> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
