@@ -15,7 +15,7 @@
   </a> 
   
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img src="drawable/compose_icon.svg" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/> 
+    <img src="drawable/compose_icon.png" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/> 
   </a> 
   
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> 
