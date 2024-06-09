@@ -10,10 +10,6 @@
     <img src="Kotlin.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/> 
   </a>
   
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="Android.svg" title="Android" alt="Android" width="50" height="50"/> 
-  </a> 
-  
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
     <img src="JCLogo.png" title="Jetpack Compose" alt="Jetpack Compose" width="50" height="50"/> 
   </a> 
@@ -29,19 +25,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="50" height="50"/> 
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> 
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML5" width="50" height="50"/> 
-  </a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS3" width="50" height="50"/> 
-  </a> 
-
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="50" height="50"/> 
   </a>
