@@ -1,7 +1,7 @@
 ## 📝 About
-- Full-time music junkie 🎸
 - Compose advocate, since its Lazy Layouts prove that being lazy can be quite efficient 🦥
-- Looking forward to the day when I muster the audacity to start coding in Neovim 👽
+- Wannabe Neovimmer 👽
+- Full-time music junkie 🎸
 - I used to write copies but all I write now is commit messages ✍️
 - When I'm not coding, I'm usually watching Primeagen streams or Sci-Fi movies 🍿
 
