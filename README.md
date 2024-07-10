@@ -1,7 +1,7 @@
 ## 📝 About
 - Compose advocate, since its Lazy Layouts prove that being lazy can be quite efficient 🦥
 - Wannabe Neovimmer 👽
-- Full-time music junkie 🎸
+- Full-time music geek 🎸
 - I used to write copies but all I write now is commit messages ✍️
 - When I'm not coding, I'm usually watching Primeagen streams or Sci-Fi movies 🍿
 
