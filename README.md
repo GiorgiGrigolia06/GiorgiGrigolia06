@@ -4,11 +4,7 @@
 - Full-time music geek 🎸
 - I used to write copies but all I write now is commit messages ✍️
 - When I'm not coding, I'm usually watching Primeagen streams or Sci-Fi movies 🍿
-- ```kotlin if (true) println("true) ```
   
-```kotlin
-when (notCoding) watchPrimeAgenStreams || Sci-Fi Movies
-```
 ## 🚀 Tools I Use
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
