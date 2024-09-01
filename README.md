@@ -1,5 +1,7 @@
 ## 📝 About
-Compose advocate, wannabe neovimmer, full-time music geek 
+- Compose advocate 🦥
+- Wannabe Neovimmer 👽
+- Full-time music geek 🎸
 
 ## 🚀 Tools I Use
 <p align="left">
