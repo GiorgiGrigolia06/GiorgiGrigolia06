@@ -65,6 +65,3 @@
     <img src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="40" width="40" />
   </a>&nbsp;
 </p>
-
-## 🎯 Profile Reach
-![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
