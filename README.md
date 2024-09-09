@@ -1,9 +1,9 @@
-## 📝 About
+### 📝 About
 - Compose advocate 🦥
 - Wannabe neovimmer 👽
 - Full-time music geek 🎸
 
-## 🚀 Tools I Use
+### 🚀 Tools I Use
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="drawable/kotlin_icon.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/> 
@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigrigolia06&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgigrigolia06" />
 </p>
 
-## 🌐 Languages I Speak
+### 🌐 Languages I Speak
 <p align="left">
   <a>
     <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" title="English" alt="UK Flag" height="60" width="60"/>
@@ -51,7 +51,7 @@
   <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" title="Georgian" alt="Georgia Flag" height="60" width="60"/>
 </p>
 
-## 📍 Where to Find Me
+### 📍 Where to Find Me
 <p align="left">
   <a href="https://www.linkedin.com/in/giorgigrigolia/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="Giorgi Grigolia LinkedIn Account" height="45" width="45" />
