@@ -66,10 +66,5 @@
   </a>&nbsp;
 </p>
 
-## 📊 Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGrigolia06&theme=transparent"/>  
-</p>
-
 ## 🎯 Profile Reach
 ![Visitor Count](https://profile-counter.glitch.me/giorgigrigolia06/count.svg)
