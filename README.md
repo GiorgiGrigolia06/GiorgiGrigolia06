@@ -1,6 +1,6 @@
 ## 📝 About
 - Compose advocate 🦥
-- Wannabe Neovimmer 👽
+- Wannabe neovimmer 👽
 - Full-time music geek 🎸
 
 ## 🚀 Tools I Use
