@@ -1,8 +1,3 @@
-## 📝 About
-- Compose advocate 🦥
-- Wannabe neovimmer 👽
-- Full-time music geek 🎸
-
 ## 🚀 Tools I Use
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
