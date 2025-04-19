@@ -56,8 +56,4 @@
   <a href="mailto:grigolialive@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Giorgi Grigolia Gmail" height="45" width="45" />
   </a>&nbsp;
-  
-  <a href="https://g.dev/giorgiGrigolia" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png" title="Google Developer Profile" alt="Giorgi Grigolia Google Developer Account" height="45" width="45" />
-  </a>&nbsp;
 </p>
