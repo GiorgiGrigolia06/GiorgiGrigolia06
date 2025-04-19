@@ -38,7 +38,7 @@
   <img src="https://flagicons.lipis.dev/flags/4x3/ge.svg" title="Georgian" alt="Georgia Flag" height="60" width="60"/>
 </p>
 
-## 📍 How to Reach Me
+## 🔗 How to Reach Me
 <p align="left">
   <a href="https://www.linkedin.com/in/giorgigrigolia/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="Giorgi Grigolia LinkedIn Account" height="45" width="45" />
